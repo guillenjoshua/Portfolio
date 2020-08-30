@@ -8,6 +8,7 @@ The connect page contains links to my professional social media and direct links
 Feel free to reach out with any questions or suggestions.
 
 Link to my deployed portfolio: 
+https://guillenjoshua.github.io/Portfolio/.
 
 
 
